@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * The {@code Main} class provides a solution for removing duplicates from a sorted array
+ * The {@code sorted_array_deduplication} class provides a solution for removing duplicates from a sorted array
  * by allowing at most two occurrences of the same element and returning the new length.
  */
 public class sorted_array_deduplication {
